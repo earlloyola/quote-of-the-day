@@ -1,5 +1,5 @@
 === Quote of the Day ===
-Contributors: yourname
+Contributors: Earl Loyola
 Tags: quote, daily quote, dashboard widget, custom post type
 Requires at least: 5.0
 Tested up to: 6.5
@@ -40,3 +40,4 @@ Yes, quotes are stored as a custom post type.
 
 = 1.0.0 =
 Initial release.
+
