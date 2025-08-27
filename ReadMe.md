@@ -1,43 +1,68 @@
-=== Quote of the Day ===
-Contributors: Earl Loyola
-Tags: quote, daily quote, dashboard widget, custom post type
-Requires at least: 5.0
-Tested up to: 6.5
-Requires PHP: 7.2
-Stable tag: 1.0.0
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+<h1>📜 Quote of the Day</h1>
 
-Adds a "Quote of the Day" dashboard widget and a custom post type for managing quotes in the WordPress admin. Also includes a shortcode to display a random quote on pages or posts.
+<p>
+  <strong>Contributors:</strong> Earl Loyola<br>
+  <strong>Tags:</strong> quote, daily quote, dashboard widget, custom post type<br>
+  <strong>Requires WordPress:</strong> 5.0+<br>
+  <strong>Tested up to WordPress:</strong> 6.5<br>
+  <strong>Requires PHP:</strong> 7.2+<br>
+  <strong>Stable Version:</strong> 1.0.0<br>
+  <strong>License:</strong> GPL-2.0-or-later<br>
+  <strong>License URI:</strong> 
+  <a href="https://www.gnu.org/licenses/gpl-2.0.html" target="_blank">https://www.gnu.org/licenses/gpl-2.0.html</a>
+</p>
 
-== Description ==
-This plugin displays a random "Quote of the Day" on your WordPress Dashboard. You can manage quotes using a custom post type called "Quotes", which lets you add, edit, or delete quotes like regular posts.
+<p>
+  Adds a <strong>"Quote of the Day"</strong> dashboard widget and a custom post type 
+  for managing quotes in the WordPress admin. Also includes a shortcode to 
+  display a random quote on pages or posts.
+</p>
 
-You can also use the [quote_of_the_day] shortcode to display a random quote on any page or post.
+<hr>
 
-== Installation ==
-1. Upload the `quote-of-the-day` folder to the `/wp-content/plugins/` directory.
-2. Activate the plugin through the 'Plugins' menu in WordPress.
-3. You will now see a "Quotes" menu item in the WordPress admin.
-4. Add quotes like regular posts.
-5. The Dashboard will display a random quote.
-6. Use `[quote_of_the_day]` shortcode in any post or page to show a random quote on the frontend.
+<h2>📖 Description</h2>
+<p>
+  This plugin displays a random <strong>"Quote of the Day"</strong> on your WordPress Dashboard. 
+  You can manage quotes using a custom post type called <strong>"Quotes"</strong>, 
+  which lets you add, edit, or delete quotes like regular posts.
+</p>
+<p>
+  You can also use the <code>[quote_of_the_day]</code> shortcode to display a random quote 
+  on any page or post.
+</p>
 
-== Frequently Asked Questions ==
+<hr>
 
-= Can I display the quote on a page? =
-Yes, use the `[quote_of_the_day]` shortcode.
+<h2>⚙️ Installation</h2>
+<ol>
+  <li>Upload the <code>quote-of-the-day</code> folder to the <code>/wp-content/plugins/</code> directory.</li>
+  <li>Activate the plugin through the <strong>Plugins</strong> menu in WordPress.</li>
+  <li>You will now see a <strong>Quotes</strong> menu item in the WordPress admin.</li>
+  <li>Add quotes like regular posts.</li>
+  <li>The <strong>Dashboard</strong> will display a random quote.</li>
+  <li>Use <code>[quote_of_the_day]</code> shortcode in any post or page to show a random quote on the frontend.</li>
+</ol>
 
-= Can I manage quotes like posts? =
-Yes, quotes are stored as a custom post type.
+<hr>
 
-== Changelog ==
+<h2>❓ Frequently Asked Questions</h2>
 
-= 1.0.0 =
-* Initial release with dashboard widget, custom post type, and shortcode.
+<h3>Can I display the quote on a page?</h3>
+<p>Yes, use the <code>[quote_of_the_day]</code> shortcode.</p>
 
-== Upgrade Notice ==
+<h3>Can I manage quotes like posts?</h3>
+<p>Yes, quotes are stored as a custom post type.</p>
 
-= 1.0.0 =
-Initial release.
+<hr>
 
+<h2>📝 Changelog</h2>
+<h3>1.0.0 – 2025-08-27</h3>
+<ul>
+  <li>Initial release with dashboard widget, custom post type, and shortcode.</li>
+</ul>
+
+<hr>
+
+<h2>⬆️ Upgrade Notice</h2>
+<h3>1.0.0</h3>
+<p>Initial release.</p>
